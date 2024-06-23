@@ -23,11 +23,3 @@ In this section, the user can view the developers of the game. The information o
 Help section
 If you need help during the game, you can access the help section from the main menu. The help section provides answers to common questions, as well as the mechanics of playing the game.
 "# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
-"# AdQuest" 
